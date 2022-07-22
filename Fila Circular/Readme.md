@@ -6,14 +6,14 @@ Remove e Adciona em qualque posição em um vetor definido, atualizando os ponte
 Fila Circular
  Inserção Circular:
  ->localiza fim;
- ->verificaoproximo de fim;
+ ->verifica o proximo de fim;
  ->insere na próxima posição de fim;
- ->atualizaofim;
+ ->atualiza o fim;
   Remoção Circular:
   ->Localiza inicio
-  ->apagaoconteúdo de inicio
+  ->apaga o conteúdo de inicio
   ->verifica qualaproxima posição de inicio
-  ->atribuiainicioaproxima posição
+  ->atribui a inicio a proxima posição
   
 int fila[]=new int[20]
 inicio=-1;
