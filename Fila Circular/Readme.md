@@ -1,4 +1,5 @@
 https://www.devmedia.com.br/fila-circular-dinamica/24572
+https://www.programiz.com/dsa/circular-queue
 
 Remove e Adciona em qualque posição em um vetor definido, atualizando os ponteiros inicio e fim.
 
