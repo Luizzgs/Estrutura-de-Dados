@@ -25,7 +25,7 @@ public class Main{
             System.out.printf("%d ",i);
         }
 
-
-
+        //open the browser and enter the url: http://localhost:8080/index.html
+        //open the browser and enter the url: wikipedia.org/
     }
 }
